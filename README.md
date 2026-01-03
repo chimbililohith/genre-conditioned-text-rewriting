@@ -1,5 +1,4 @@
-# genre-conditioned-text-rewriting
-Genre-conditioned text rewriting system for six literary genres. Compared GPT-4 prompting vs Qwen 2.5–1.5B Instruct (base + LoRA). Evaluated using style accuracy, content similarity, NER preservation, and fluency.
+
 # Genre-Conditioned Text Rewriting — Code Submission
 
 This folder contains all code used to construct the dataset, fine-tune models, generate genre-transfer rewrites, and compute evaluation metrics for the genre-conditioned text rewriting project.
